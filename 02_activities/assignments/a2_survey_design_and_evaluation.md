@@ -221,21 +221,6 @@ Identify and describe survey features:
 
 The next survey features indicated below will be evaluated for the 'Canadian General Social Survey on Giving, Volunteering, and Participating, 2018'  
 
-1. Sample type
-2. Sample size
-3. Target population
-4. Sampling frame
-5. Survey mode(s) 
-6. Timeline
-7. Response rate
-8. Weights
-9. Data processing
-10. Cleaning, imputation, etc
-11. Sources of error
-12. Limitations, known biases, etc
-13. Link to documentation and any additional sources used```
-
-
 1. Sample Type for the Canadian General Social Survey is Stratified Random Sampling.
  This method involves dividing the population into subgroups (strata) based on characteristics such as age, gender, and region, and then randomly selecting samples from each subgroup to ensure representation. The survey uses a cross-sectional design, which means it collects data from a sample of the population at one specific point in time.
 •  The ten provinces of the target population are divided into strata (i.e., geographic areas).
